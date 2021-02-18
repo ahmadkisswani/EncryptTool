@@ -1,0 +1,5 @@
+encrypted txt :a05ed5d29d69b4769acf0b271655fdbf05f30036a79deae03cb82d66b80d7c95
+decrypt txt :Test content, ahmad
+password txt :password!@#
+content txt :Test content, ahmad
+ALGORITHMAES

@@ -42,7 +42,7 @@ public class main {
             outFile.write("\n");
             outFile.write("content txt :" + content);
             outFile.write("\n");
-            outFile.write("ALGORITHM" + ALGORITHM.toString());
+            outFile.write("ALGORITHM : " + ALGORITHM.toString());
 
             outFile.close();
         } catch (IOException ex) {
